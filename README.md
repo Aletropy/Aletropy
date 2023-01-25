@@ -15,7 +15,7 @@ string WhatImLearning()
   <h2>Technologies</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,ts,discord,bots,java" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,ts,bots,java" />
     </a>
   </p>
   
