@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**AletropyS2/AletropyS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hello, World 🌟 My name is Davi Portela</h1>
+  <h3>A sofware engineer & game developer</h3>
+</div>
 
-Here are some ideas to get you started:
+```cs
+string WhatImLearning()
+{
+  return "C++ & Rendering API's"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>Technologies</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,cpp,ts,discord,bots,java" />
+    </a>
+  </p>
+  
+  <h2>Tools</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,unity" />
+   </a>
+  </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluh7&label=Profile%20views&color=0e75b6&style=flat" alt="AletropyS2" /> </p>
+</div>
