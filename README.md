@@ -11,7 +11,7 @@ string WhatImLearning()
 }
 ```
 
-<h2 style="color:#ffd35c;">Available for work <strong>work</strong></h2>
+<p color="#ffd35c">Available for work <strong>work</strong></p>
 
 <div align="center">
   <h2>Technologies</h2>
