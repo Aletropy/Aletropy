@@ -11,7 +11,7 @@ string WhatImLearning()
 }
 ```
 
-<p color="#ffd35c">Available for work <strong>work</strong></p>
+<p color="#ffd35c">Available for <strong>work</strong></p>
 
 <div align="center">
   <h2>Technologies</h2>
@@ -24,7 +24,7 @@ string WhatImLearning()
   <h2>Tools</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,unity" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,blender,unity" />
    </a>
   </p>
 </div>
