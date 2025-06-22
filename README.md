@@ -6,7 +6,7 @@
  ```cs
   string WhatImLearning()
   {
-    return "Kotlin and Minecraft Plugins"
+    return "Low-level software architecture."
   }
   ```
 
