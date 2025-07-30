@@ -94,4 +94,4 @@ These projects showcase my ability to tackle diverse and complex software engine
 
 I'm eager to apply my diverse skill set to challenging freelance projects. If you're looking for a dedicated, resourceful, and highly capable developer to bring your ideas to life, I'd love to hear from you!
 
-    📫 Reach out to me: nixanha.mim@gmail.com
+    📫 Reach out to me: davi.a.portela@outlook.com
