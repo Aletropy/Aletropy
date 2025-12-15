@@ -86,12 +86,14 @@ These projects showcase my ability to tackle diverse and complex software engine
   // performance optimization techniques, and advanced graphics programming.
   public string CurrentFocus()
   {
-    return "Mastering Vulkan and exploring systems design patterns.";
+    return "Mastering interpreters and dev tools.";
   }
 ```
 
 ## 🤝 Let's Connect & Collaborate!
 
 I'm eager to apply my diverse skill set to challenging freelance projects. If you're looking for a dedicated, resourceful, and highly capable developer to bring your ideas to life, I'd love to hear from you!
+
+Systems Architect available for hire. I solve hard performance problems and build robust backends.
 
     📫 Reach out to me: davi.a.portela@outlook.com
